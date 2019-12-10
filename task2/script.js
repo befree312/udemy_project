@@ -11,6 +11,8 @@ let appData = {
     savings: false
 };
 
+
+
 // let i = 2;
 
 // while (i > 0) {
@@ -27,6 +29,8 @@ let appData = {
 //     }
 // };
 
+
+
 // let i = 0;
 
 // do {
@@ -41,6 +45,9 @@ let appData = {
 //         i++;
 //     }
 // } while (i < 2);
+
+
+
 
 
 for (let i = 0; i < 2; i++) {
